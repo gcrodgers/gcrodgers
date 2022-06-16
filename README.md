@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garrett Rodgers, a UW Madison graduate!
-- 👀 I’m interested in ... Software security, front end and back end, and UI creation
-- 🌱 I’m currently learning ... Operating Systems, DES/AES/Triple DES encryptions, SSRF attacks, and Cross Site Scripting attacks using a service worker.
+- 👀 I’m interested in ... Software security, front end (learning) and back end, and UI creation
+- 🌱 I’m currently learning ... Operating Systems (finishing OSTEP), DES/AES/Triple DES encryptions, SSRF attacks, and Cross Site Scripting attacks using a service worker.
 - 💞️ I’m looking to collaborate on ... interesting UI projects and any projects related to security!
 - 📫 How to reach me ... my email is garrett.rodgers28@gmail.com
 
